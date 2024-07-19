@@ -2,7 +2,7 @@
   "name": "delete-lines-with-text",
   "displayName": "Delete Lines with Text",
   "description": "Deletes all lines in the current editor that contain the selected text",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://https://github.com/cameronkorbsonos/vscode-delete-lines-with-selected-text.git"
