@@ -1,0 +1,18 @@
+.vscode/**
+.vscode-test/**
+src/**
+.gitignore
+.yarnrc
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/.eslintrc.json
+**/*.map
+**/*.ts
+**/.vscode-test.*
+
+# Exclude node_modules except for production dependencies
+node_modules/**
+!node_modules/vscode/**
+!node_modules/esbuild/**
+!node_modules/@types/vscode/**
+!node_modules/typescript/**
